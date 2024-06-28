@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on **VG Pricing App**
 
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **afaqazhar5@gmail.com**
 
