@@ -2,7 +2,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hi 👋, I'm Afaq Azhar</h1>
-<h3 align="center">React Developer</h3>
+<h3 align="center">MERN Developer</h3>
 
 <img width="300" align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <img width="300" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="rishavchanda" />
